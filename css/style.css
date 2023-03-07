@@ -50,6 +50,11 @@ em {
     color: rgb(250, 227, 19);
 }
 
+.indexname {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .contact {
     margin-top: 45px;
 }
